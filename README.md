@@ -7,3 +7,4 @@ Creada Por Speed, Web Developer
 - Pagina de muestra Gamemode maimi.
 - Adaptacion de pagina en diferentes dispositivos (responsive).
 - Correcion de errores en el backend.
+- Hasheo correcto y compatible con servidor samp.
